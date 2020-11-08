@@ -2,6 +2,8 @@
 
 ## Install Choco
 > ADM Porwershell
+
 ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))```
+
 ## Base Programs
-´´´choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord dotnet4 dotnetfx ffmpeg Firefox gsudo imageglass jre8  KB2919442 make micro mingw obs openhardwaremonitor powertoys procexp pstools python python3 rufus soundswitch steam sublimetext3 transmission vcredist140 vcredist2010 vcredist2015 vcredist2017 vlc vscode vscode youtube-dl motorolamobiledrivers´´´
+```choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord dotnet4 dotnetfx ffmpeg Firefox gsudo imageglass jre8  KB2919442 make micro mingw obs openhardwaremonitor powertoys procexp pstools python python3 rufus soundswitch steam sublimetext3 transmission vcredist140 vcredist2010 vcredist2015 vcredist2017 vlc vscode vscode youtube-dl motorolamobiledrivers```
