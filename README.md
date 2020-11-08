@@ -11,3 +11,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord dotnet4 dotnetfx ffmpeg Firefox gsudo imageglass jre8  KB2919442 make micro mingw obs openhardwaremonitor powertoys procexp pstools python python3 rufus soundswitch steam sublimetext3 transmission vcredist140 vcredist2010 vcredist2015 vcredist2017 vlc vscode vscode youtube-dl motorolamobiledrivers
 ```
+
+## Appareance
+> MAC Type
+https://www.mactype.net/
