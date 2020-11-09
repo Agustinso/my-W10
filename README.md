@@ -9,7 +9,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ## Base Programs
 ```
-choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord dotnet4.5 dotnet3.5 dotnetfx ffmpeg Firefox gsudo imageglass jre8 make micro mingw obs openhardwaremonitor powertoys procexp pstools python python3 rufus soundswitch steam sublimetext3 transmission vcredist140 vcredist2010 vcredist2015 vcredist2017 vlc vscode youtube-dl motorolamobiledrivers ubuntu.font git microsoft-windows-terminal chromium-stable
+choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord dotnet4.5 dotnet3.5 dotnetfx ffmpeg Firefox gsudo imageglass jre8 make micro mingw obs openhardwaremonitor powertoys procexp pstools python python3 rufus soundswitch steam sublimetext3 transmission vcredist140 vcredist2010 vcredist2015 vcredist2017 vlc vscode youtube-dl motorolamobiledrivers ubuntu.font git microsoft-windows-terminal ungooled-chromium
 ```
 
 ## Appareance
