@@ -15,3 +15,8 @@ choco install -y -f 7zip adb aria2 audacity autohotkey bitwarden directx discord
 ## Appareance
 > MAC Type
 https://www.mactype.net/
+
+
+## Firefox
+
+https://ffprofile.com/
